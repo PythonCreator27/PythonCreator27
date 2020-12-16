@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **PythonCreator27/PythonCreator27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Advaiya Lad
+I am a programmer in Allen, Texas, USA. I am still learning programming. I love creating web applications and anything related to React. I love using mongodb and postgresql as my databases.
+
+## My Favorite Languages
+-   Python
+-   JavaScript
+-   Java
+-   Rust
+
+## My Favorite Frameworks
+-   Flask
+-   React
