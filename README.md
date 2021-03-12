@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Advaiya Lad
-I am a programmer in Allen, Texas, USA. I am still learning programming. I love creating web applications and anything related to React. I love using mongodb and postgresql as my databases.
+I am a programmer in Allen, Texas, USA. I am still learning programming. I love creating web applications and anything related to React or Vue. I love using mongodb and postgresql as my databases.
 
 ## My Favorite Languages
 -   Python
@@ -27,3 +27,6 @@ I am a programmer in Allen, Texas, USA. I am still learning programming. I love 
 ## My Favorite Frameworks
 -   Flask
 -   React
+-   Vue
+-   Angular
+-   Svelte
