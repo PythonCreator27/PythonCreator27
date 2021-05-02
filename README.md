@@ -23,6 +23,7 @@ I am a programmer in Allen, Texas, USA. I am still learning programming. I love 
 -   JavaScript
 -   Java
 -   Rust
+-   Go
 
 ## My Favorite Frameworks
 -   Flask
